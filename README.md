@@ -8,6 +8,9 @@
 
 所有的经纬度为中心经纬度，数据来源为 [高德地图](http://lbs.amap.com/api/webservice/guide/api/district) (可提供街道级的经纬度查询)
 
+
+English Version:
+
 Copied from the original project.
 
 The longitude and latitude of all cities in China are provided, including provinces, cities, and counties. 
